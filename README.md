@@ -1,8 +1,4 @@
-
-git branch -m main base
-git fetch origin
-git branch -u origin/base base
-git remote set-head origin -a### Hi there 👋
+ -a### Hi there 👋
 
 <!--
 **FckMoiMock/FckMoiMock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
